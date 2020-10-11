@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="301cba19-fbb8-4e87-ad19-1ab79af82c28" name="Default Changelist" comment="" />
+    <list default="true" id="301cba19-fbb8-4e87-ad19-1ab79af82c28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitgonre" beforeDir="false" afterPath="$PROJECT_DIR$/.gitgonre" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1idTulLr6uKBaOe3VeWCx5rXmGB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -48,5 +77,52 @@
       <updated>1602236694950</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1771" height="147" key="GridCell.Tab.0.bottom" timestamp="1602407200315">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="147" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602251264804" />
+    <state width="1771" height="147" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1602407200315" />
+    <state width="1771" height="147" key="GridCell.Tab.0.center" timestamp="1602407200314">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="147" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602251264803" />
+    <state width="1771" height="147" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1602407200314" />
+    <state width="1771" height="147" key="GridCell.Tab.0.left" timestamp="1602407200313">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="147" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602251264802" />
+    <state width="1771" height="147" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1602407200313" />
+    <state width="1771" height="147" key="GridCell.Tab.0.right" timestamp="1602407200315">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="147" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602251264803" />
+    <state width="1771" height="147" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1602407200315" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1602247273202">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602247273202" />
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602406439707">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602406439707" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1602401950213">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602237875599" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1602401950213" />
   </component>
 </project>
